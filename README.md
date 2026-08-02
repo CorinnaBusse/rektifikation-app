@@ -1,7 +1,6 @@
 # Tank·Monitor — Füllstandssimulation
 
-Live-Simulation eines Tanks (Zulauf/Ablauf, Torricelli-Ausfluss, live
-Euler-Integration) im Ohm-Corporate-Design.
+Live-Simulation einer Rektifikation nur Verstärkungsteil (live Euler-Integration) im Ohm-Corporate-Design.
 
 ## Schnellstart
 
